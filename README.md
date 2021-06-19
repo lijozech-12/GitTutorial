@@ -31,7 +31,7 @@ Untracked files are the new files.That means git doesn't know about this file. S
 
 ## git commit
 
-This command is use to commiting the changes you made on a github.
+This command is used to committing the changes you made on a github.
 **_git commit -m "commit message" -m "commit description (optional)"_**
 
 ## Linking github account and your PC
@@ -41,7 +41,7 @@ If all ready done this you can skip this step.
 
 ## git push in main branch
 
-use this command to push changes into your git hub repo **_git push origin main_**
+This command is used to push changes into your git hub repo **_git push origin main_**
 
 
 
