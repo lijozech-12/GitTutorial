@@ -37,6 +37,11 @@ This command is use to commiting the changes you made on a github.
 ## Linking github account and your PC
 
 [youtube tutorial link for Linking github and your PC](https://www.youtube.com/watch?v=H5qNpRGB7Qw)
+If all ready done this you can skip this step.
+
+## git push in main branch
+
+use this command to push changes into your git hub repo**_git push origin main_**
 
 
 
