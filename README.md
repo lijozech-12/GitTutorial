@@ -5,7 +5,7 @@ A repo for Paractice Version control in Git &amp; Github
 
 1. Open a folder in Visual Studio code.
 2. Open the terminal.
-3. Write the Command **git clone _link that got from git clone_**
+3. Write the Command **_git clone link that got from git clone_**
 
    
 
@@ -17,17 +17,17 @@ A repo for Paractice Version control in Git &amp; Github
 
 This command is used to check the Status of different file in the repo.
 Status like modified, Untracked, newfile etc....
-After changeing file use **git status** command.
+After changeing file use **_git status_** command.
 
 ## Untracked files
  
 Untracked files are the new files.That means git doesn't know about this file. So we need to tell git. **A new file is here buddy :)**
 
-1. Use **git add _filename/foldername_** To track specific file/folder.
+1. Use **_git add filename/foldername_** To track specific file/folder.
     
     To practice this I added a **index.html** file and Test folder to this repo
 
-2. You can also use **git add .** To track all the files &amp; folders.
+2. You can also use **_git add ._** To track all the files &amp; folders.
 
 
 
