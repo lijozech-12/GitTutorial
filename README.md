@@ -5,7 +5,7 @@ A repo for Paractice Version control in Git &amp; Github
 
 1. Open a folder in Visual Studio code.
 2. Open the terminal.
-3. Write the Command **_git clone link that got from git clone_**
+3. Write the Command **_git clone "link that got from git clone"_**
 
    
 
