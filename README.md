@@ -29,6 +29,15 @@ Untracked files are the new files.That means git doesn't know about this file. S
 
 2. You can also use **_git add ._** To track all the files &amp; folders.
 
+## git commit
+
+This command is use to commiting the changes you made on a github.
+**_git commit -m "commit message" -m "commit description (optional)"_**
+
+## Linking github account and your PC
+
+[youtube tutorial link for Linking github and your PC](https://www.youtube.com/watch?v=H5qNpRGB7Qw)
+
 
 
 
