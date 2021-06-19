@@ -41,7 +41,7 @@ If all ready done this you can skip this step.
 
 ## git push in main branch
 
-use this command to push changes into your git hub repo**_git push origin main_**
+use this command to push changes into your git hub repo **_git push origin main_**
 
 
 
