@@ -46,9 +46,15 @@ There is a shortcut for this type **_git push -u origin main_**. Next time onwar
 **_git push_**
 
 
+## git Workflow(Usig web interface)
+
+write code -> commit changes `git commit` -> pull request 
+
+
 ## Local Git WorkFlow
 
-write code -> stage code `git add` -> Commit changes `git commit` -> Push changes `git push`
+write code -> stage code `git add` -> Commit changes `git commit` -> Push changes `git push` -> make a pull Request(if your not the owner of this repo)
+
 
 ## Bracnhing in Git
 
