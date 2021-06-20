@@ -56,7 +56,7 @@ write code -> commit changes `git commit` -> pull request
 write code -> stage code `git add` -> Commit changes `git commit` -> Push changes `git push` -> make a pull Request(if your not the owner of this repo)
 
 
-## Bracnhing in Git
+## Branching in Git
 
 Branching allows each developer to branch out from the original code base and isolate their work from others. It also helps Git to easily merge versions later on.
 
