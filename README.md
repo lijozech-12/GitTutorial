@@ -75,8 +75,11 @@ Branching allows each developer to branch out from the original code base and is
 
 ### merging the created branch into master
 
-Comeback to main branch
-`git diff` this command shows the changes in **main branch** and **practise branch**
+`git checkout main` Comeback to main branch
+`git diff branch_name` this command shows the changes in **main branch** and **practise branch**
+`git merge branch_name` this command will merge the practise branch into main branch.
+
+
 
 
 
