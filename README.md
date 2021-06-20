@@ -73,6 +73,10 @@ Branching allows each developer to branch out from the original code base and is
 `git checkout -b "branch name"` is used to create a new branch
 `git checkout "branch name` is use to switch between branches
 
+### merging the created branch into master
+
+`git diff` this command shows the changes in **main branch** and **practise branch**
+
 
 
 
