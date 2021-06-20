@@ -42,6 +42,19 @@ If all ready done this you can skip this step.
 ## git push in main branch
 
 This command is used to push changes into your git hub repo **_git push origin main_**
+There is a shortcut for this type **_git push -u origin main_**. Next time onwards you just needed to type
+**_git push_**
+
+
+## Local Git WorkFlow
+
+write code -> stage code `git add` -> Commit changes `git commit` -> Push changes `git push`
+
+## Bracnhing in Git
+
+Branching allows each developer to branch out from the original code base and isolate their work from others. It also helps Git to easily merge versions later on.
+
+### how to Create a Branch in git.
 
 
 
