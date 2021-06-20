@@ -60,14 +60,21 @@ write code -> stage code `git add` -> Commit changes `git commit` -> Push change
 Branching allows each developer to branch out from the original code base and isolate their work from others. It also helps Git to easily merge versions later on.
 
 @1 - @2 - @3 - @4 - @5 - @6          
-           \        /                
-            \      /
-             #1 - #2 
+-----------\--------/                
+------------\------/
+-------------#1 - #2 
 
 `@1-6` is the `master` branch
 `#1-#2` is the `feature` branch
 
 ### how to Create a Branch in git.
+
+`git branch` command is used to see the branches
+`git checkout -b "branch name"` is used to create a new branch
+`git checkout "branch name` is use to switch between branches
+
+
+
 
 
 
